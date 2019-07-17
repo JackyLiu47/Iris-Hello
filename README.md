@@ -50,4 +50,8 @@
 
 ### 这个项目中包含了从导入数据到生成模型以及对数据进行分类的全部过程，通过本项目熟悉了机器学习项目中的各个步骤，项目中的统计方法和图表绘制方法将在今后的机器学习项目中得到应用
 
->## ![author](https://avatars0.githubusercontent.com/u/37102431?s=460&v=4) [JackyLiu47](https://github.com/JackyLiu47)
+# Contributor:
+
+>### <img src="https://avatars0.githubusercontent.com/u/37102431?s=460&v=4" alt="Jackyliu47" height="60" width="60" align=center> [JackyLiu47](https://github.com/JackyLiu47)
+>
+>### <img src="https://avatars3.githubusercontent.com/u/36867771?s=460&v=4" alt="Yousa2298" height="60" width="60" align=center> [Yousa](https://github.com/yousa2298)
