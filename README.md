@@ -24,14 +24,30 @@
 
 ## 3.数据可视化
 >3.1 单变量图表---箱线图和直方图
->
+
+![boxplot](https://github.com/JackyLiu47/Iris-Hello/blob/master/pic/boxplot.png)
+
+![histogram](https://github.com/JackyLiu47/Iris-Hello/blob/master/pic/histogram.png)
 >3.2 多变量图标---散点矩阵图
+
+![scattermatrix](https://github.com/JackyLiu47/Iris-Hello/blob/master/pic/scattermatrix.png)
 
 ## 4.评估算法
 >4.1 分离评估数据集
 >
 >4.2 评估模式
+
 >
 >4.3 创建模型
 >
->4.4 选择最优模型
+>4.4 显示决策树
+
+![decisiontree](https://github.com/JackyLiu47/Iris-Hello/blob/master/pic/decisiontree.png)
+
+>4.5 选择最优模型
+
+![comparealgs](https://github.com/JackyLiu47/Iris-Hello/blob/master/pic/algs.png)
+
+### 这个项目中包含了从导入数据到生成模型以及对数据进行分类的全部过程，通过本项目熟悉了机器学习项目中的各个步骤，项目中的统计方法和图表绘制方法将在今后的机器学习项目中得到应用
+
+>## ![author](https://avatars0.githubusercontent.com/u/37102431?s=460&v=4) JackyLiu47
