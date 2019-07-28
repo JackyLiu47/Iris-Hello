@@ -53,6 +53,4 @@ Iris-Hello项目中包含了从导入数据到生成模型以及对数据进行�
 
 ## Contributor:
 
->#### <img src="https://avatars0.githubusercontent.com/u/37102431?s=460&v=4" alt="Jackyliu47" height="60" width="60" align=center> [JackyLiu](https://github.com/JackyLiu47)
->
->#### <img src="https://avatars3.githubusercontent.com/u/36867771?s=460&v=4" alt="Yousa2298" height="60" width="60" align=center> [Yousa](https://github.com/yousa2298)
+>#### <img src="https://avatars0.githubusercontent.com/u/37102431?s=460&v=4" alt="Jackyliu47" height="60" width="60" align=center> [JackyLiu](https://github.com/JackyLiu47)  <img src="https://avatars3.githubusercontent.com/u/36867771?s=460&v=4" alt="Yousa2298" height="60" width="60" align=center> [Yousa](https://github.com/yousa2298)
